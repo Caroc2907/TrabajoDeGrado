@@ -1,0 +1,7 @@
+export * from "./Estudents"
+export * from "./Cases"
+export * from "./Advisers"
+export * from "./OldCases"
+export * from "./Persons"
+export * from "./WelcomeView"
+export * from "./Configuration"
